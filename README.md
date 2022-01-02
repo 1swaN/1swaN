@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1swaN (Dmitriy Kuznetsov). 21 y.o. programmer from Saratov, Russian Federation
+- 👋 Hi, I’m @1swaN (Dmitriy Kuznetsov). 22 y.o. programmer from Saratov, Russian Federation
 - 👀 I’m interested in self-educating in programming. BTW I'm just a beginner so I'll be happy to get as much experience as possible. 
 - 🌱 I’m currently learning C# and developing winforms and WPF applications
 - 💞️ I’m looking for some new ideas to make them real, using my knowledge about C#. Perhaps I will make a small Unity project soon (smth like a simple computer game)
