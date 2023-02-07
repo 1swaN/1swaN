@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html, JS, CSS
 - 💞️ I’m looking for some new ideas to make them real, trying to do my best at the MSTU frontend courses
 - 💡 I study at Yuri Gagarin's State Technical University as an engineer-mechanic
-- 📫 How to reach me: dmitriy.kuznecov.99@list.ru | dmitriy31.kuznetsov@gmail.com
+- 📫 How to reach me: dmitriy.kuznecov.99@list.ru - for university | dmitriy31.kuznetsov@gmail.com - for work
 
 <!---
 1swaN/1swaN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
