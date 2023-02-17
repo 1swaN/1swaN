@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, JS, CSS, React
 - 💞️ I’m looking for some new ideas to make them real, trying to do my best at the MSTU frontend courses
 - 💡 I study at Yuri Gagarin's State Technical University as an engineer-mechanic
-- # My current job is an engineer-constructor. I work at Gazapparat, Saratov.
+- My current job is an engineer-constructor. I work at Gazapparat, Saratov.
 - 📫 How to reach me: dmitriy.kuznecov.99@list.ru - for university | dmitriy31.kuznetsov@gmail.com - for work
 
 <!---
