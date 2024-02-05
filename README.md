@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1swaN (Dmitriy Kuznetsov). 23 y.o. programmer from Saratov, Russian Federation
+- 👋 Hi, I’m @1swaN (Dmitriy Kuznetsov). 24 y.o. programmer from Saratov, Russian Federation
 - 👀 I’m interested in self-educating in programming. BTW I'm just a beginner so I'll be happy to get as much experience as possible. 
 - 🌱 HTML, JS, CSS, React, XAMPP, webpack, Gulp
 - 💞️ I’m looking for a new future in the IT industry
